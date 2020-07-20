@@ -15,6 +15,4 @@ class Dog
     puts "woof!"
   end
   
-  binding.pry
-  
 end
